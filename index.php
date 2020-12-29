@@ -20,10 +20,6 @@ popper.min.js"></script>
 bootstrap.min.js"></script>
 
  <style>
-    table, th, td {
-      border: 1px solid black;
-    }
-    
     body {
         background-image: url('https://resi.ze-robot.com/dl/su/sunset-mountains-2560%C3%971600.jpg');
         background-repeat: no-repeat;
