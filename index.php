@@ -46,7 +46,7 @@ bootstrap.min.js"></script>
         <h1>Valuepack</h1>
         <br>
         <a class="btn btn-info" href="index_thanunya_new.html" style="background-color:#66CCFF;">620710160</a>
-        <a class="btn btn-info" href="ornpreeya.1.html" style="background-color:#6699FF;">620710409</a>
+        <a class="btn btn-info" href="ornpreeya3.html" style="background-color:#6699FF;">620710409</a>
         <a class="btn btn-info" href="teeradate.html" style="background-color:#6666FF;">620710741</a>
         <a class="btn btn-info" href="jintana.html" style="background-color:#6633FF;">620710784</a>
         <br>
